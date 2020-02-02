@@ -1,3 +1,8 @@
+/*
+*  Author:      Sker <ksong666@163.com>
+*  File:        tle_bruteforce_n2.cpp
+*  Descripton:  brute force: O(n*n), TLE
+*/
 解法一：暴力搜索
 class Solution(object):
     def TwoSum(self,nums,target):
